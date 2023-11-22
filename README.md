@@ -2,7 +2,7 @@
 Proyecto #3 clasificación de imágenes 
 
 ## Reporte tecnico:
-> https://accidentalidad-medellin-fdea.blogspot.com/p/reporte-tecnico-realizado-por-david-gil.html
+> https://clasificaciondeimagenesfdea.blogspot.com/2023/11/reporte-tecnico-trabajo-3-fdea.html
 
 ## Informacion adicional:
 El proyecto se compone de un notebook 
